@@ -2,6 +2,7 @@
 
 | Date | Title ||
 | --- | --- | --- |
+| 2025-08-22 | [Run WordPress in a container using Docker Compose](https://community.hetzner.com/tutorials/run-wordpress-in-a-container-using-docker-compose) | [Source](https://github.com/hetzneronline/community-content/blob/master/tutorials/run-wordpress-in-a-container-using-docker-compose/01.en.md) |
 | 2025-05-23 | [How to use FFmpeg for video editing](https://community.hetzner.com/tutorials/how-to-use-ffmpeg-for-video-editing) | [Source](https://github.com/hetzneronline/community-content/blob/master/tutorials/how-to-use-ffmpeg-for-video-editing/01.en.md) |
 | 2024-12-13 | [Encrypting your files in the cloud using securefs](https://community.hetzner.com/tutorials/encrypting-your-files-in-the-cloud-using-securefs) | [Source](https://github.com/hetzneronline/community-content/blob/master/tutorials/encrypting-your-files-in-the-cloud-using-securefs/01.en.md) |
 | 2024-10-09 | [Set up an Xray-core VLESS proxy to access blocked websites and apps](https://github.com/wpdevelopment11/xray-tutorial) | [Source](https://github.com/wpdevelopment11/xray-tutorial/blob/main/README.md) |
