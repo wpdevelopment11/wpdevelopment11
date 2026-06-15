@@ -3,6 +3,7 @@
 | Title | Last Updated ||
 | --- | --- | --- |
 | [Running Windows games on Linux using Wine and DXVK in a sandbox](https://community.hetzner.com/tutorials/running-windows-games-on-linux-using-wine-and-dxvk-in-a-sandbox) | 2026-04-09 | [Source](https://github.com/wpdevelopment11/community-content/blob/master/tutorials/running-windows-games-on-linux-using-wine-and-dxvk-in-a-sandbox/01.en.md) |
+| [Set up an Xray-core VLESS proxy to access blocked websites and apps](https://github.com/wpdevelopment11/xray-tutorial) | 2026-04-08 | [Source](https://github.com/wpdevelopment11/xray-tutorial) |
 | [Obfuscating WireGuard using Wstunnel](https://community.hetzner.com/tutorials/obfuscating-wireguard-using-wstunnel) | 2026-01-12 | [Source](https://github.com/wpdevelopment11/community-content/blob/master/tutorials/obfuscating-wireguard-using-wstunnel/01.en.md) |
 | [Encrypting your files in the cloud using securefs](https://community.hetzner.com/tutorials/encrypting-your-files-in-the-cloud-using-securefs) | 2025-12-03 | [Source](https://github.com/wpdevelopment11/community-content/blob/master/tutorials/encrypting-your-files-in-the-cloud-using-securefs/01.en.md) |
 | [Run WordPress in a container using Docker Compose](https://community.hetzner.com/tutorials/run-wordpress-in-a-container-using-docker-compose) | 2025-08-25 | [Source](https://github.com/wpdevelopment11/community-content/blob/master/tutorials/run-wordpress-in-a-container-using-docker-compose/01.en.md) |
