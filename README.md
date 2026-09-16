@@ -12,3 +12,7 @@
 | [Installing and configuring WireGuard VPN on Ubuntu](https://community.hetzner.com/tutorials/install-and-configure-wireguard-vpn) | 2025-01-27 | [Source](https://github.com/wpdevelopment11/community-content/blob/master/tutorials/install-and-configure-wireguard-vpn/01.en.md) |
 | [Analyze nginx access log using SQL](https://community.hetzner.com/tutorials/analyze-nginx-access-log-using-sql) | 2024-08-19 | [Source](https://github.com/wpdevelopment11/community-content/blob/master/tutorials/analyze-nginx-access-log-using-sql/01.en.md) |
 | [Installing WordPress on Ubuntu](https://community.hetzner.com/tutorials/installing-wordpress-on-ubuntu) | 2023-12-11 | [Source](https://github.com/wpdevelopment11/community-content/blob/master/tutorials/installing-wordpress-on-ubuntu/01.en.md) |
+
+See [my website] for additional information about me.
+
+[my website]: https://wpdevelopment11.github.io
